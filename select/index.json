@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "RACER",
+  "base_artist": "ITZY",
+  "createdAt": "2026-02-16T08:02:08.729502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Carrera Rapida (Theme From Rapid Racer)",
+      "artist": "Apollo 440",
+      "has_synced": true,
+      "path": "select/01_Carrera_Rapida_(Theme_From_Rapid_Racer)_Apollo_440.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Speed Racer",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/02_Speed_Racer_Devo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Downhill Racer",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/03_Downhill_Racer_TNT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Downhill Racer",
+      "artist": "TNT",
+      "has_synced": true,
+      "path": "select/04_Downhill_Racer_TNT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Downhill Racer",
+      "artist": "Everything But the Girl",
+      "has_synced": true,
+      "path": "select/05_Downhill_Racer_Everything_But_the_Girl.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Downhill Racer (Kenny Dope Remix)",
+      "artist": "Everything But the Girl",
+      "has_synced": false,
+      "path": "select/06_Downhill_Racer_(Kenny_Dope_Remix)_Everything_But_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Metal Racer",
+      "artist": "Warlock",
+      "has_synced": true,
+      "path": "select/07_Metal_Racer_Warlock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Racer",
+      "artist": "Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/08_Racer_Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Demolition Racer",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/09_Demolition_Racer_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Downhill Racer (Kenny Dope mix)",
+      "artist": "Everything but the Girl",
+      "has_synced": false,
+      "path": "select/10_Downhill_Racer_(Kenny_Dope_mix)_Everything_but_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Speed Racer",
+      "artist": "Liz Phair",
+      "has_synced": false,
+      "path": "select/11_Speed_Racer_Liz_Phair.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rad Racer",
+      "artist": "Work Drugs",
+      "has_synced": true,
+      "path": "select/12_Rad_Racer_Work_Drugs.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rad Racer (Cayman Islands Sessions)",
+      "artist": "Work Drugs",
+      "has_synced": true,
+      "path": "select/13_Rad_Racer_(Cayman_Islands_Sessions)_Work_Drugs.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Speed Racer",
+      "artist": "Her's",
+      "has_synced": true,
+      "path": "select/14_Speed_Racer_Her's.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Be Like You (Wave Racer Remix)",
+      "artist": "Flume feat. Kai",
+      "has_synced": true,
+      "path": "select/15_Never_Be_Like_You_(Wave_Racer_Remix)_Flume_feat._Kai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RACER",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_RACER_ITZY.txt"
+    }
+  ]
+}
